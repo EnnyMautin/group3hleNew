@@ -33,7 +33,7 @@
         <img src="images/col.jfif" alt="Snow" style="width:100%">
     </div>
     <div class="colu">
-        <img src="images/col.jfif" alt="Forest" style="width:100%">
+        <img src="images/guy3.jpg" alt="Forest" style="width:100%">
     </div>
 
 </div>

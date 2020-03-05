@@ -40,7 +40,7 @@
             </div>
         </div>
 
-hello wolrd
+
     </div><br><br> <!---end of row one-->
 
 

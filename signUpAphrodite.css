@@ -21,6 +21,10 @@ hr {
   margin-bottom: 25px;
 }
 
+button {
+  width: auto !important;
+
+}
 /* Set a style for all buttons */
 button {
   background-color: #4CAF50;

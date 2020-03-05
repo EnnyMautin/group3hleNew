@@ -1,6 +1,7 @@
 <?php
 include 'aphroditehead.php';
 
+
 if (!session_id())
 {
     session_start();
@@ -115,6 +116,7 @@ if (isset($_POST['action']) && $_POST['action']=="change"){
             <i class="fa fa-cc-mastercard" style="color:red;"></i>
             <i class="fa fa-cc-discover" style="color:orange;"></i>
         </div>
+        <form method='post' action='cardcreate.php'>
         <label for="cname">Name on Card</label>
         <input type="text" id="cname" name="cardname" placeholder="John More Doe">
         <label for="ccnum">Credit card number</label>

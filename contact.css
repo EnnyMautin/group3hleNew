@@ -35,6 +35,8 @@
     color: grey;
 }
 
+
+
 .button {
     border: none;
     outline: 0;
@@ -50,7 +52,6 @@
 .button:hover {
     background-color: #555;
 }
-
 
  .fa {
      padding: 20px;
